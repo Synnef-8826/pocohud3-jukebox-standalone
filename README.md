@@ -15,7 +15,7 @@ I always liked the PocoHud menu style and hated the look of the other existing j
 
 No music shuffle because I never got it to work for some reason. In the meantime, [Use Music Control](https://modworkshop.net/mod/20833) for playing randomized tracks, it also includes music playlists.
 
-I cleaned the mod as best as I could but there might be leftovers from other Poco features, I'll update the mod from time to time just to clean it up. Feel free to contribute on GitHub if you want to delete this kind of unnecessary code (having tested that it works, of course).
+I cleaned the mod as best as I could but there might be leftovers from other Poco features, I'll update the mod from time to time just to clean it up. Feel free to PR if you want to delete this kind of unnecessary code (having tested that it works, of course).
 
 ---
 <sub>*Credit to [Dom](https://modworkshop.net/user/52338) and all previous Poco maintainers, none of the code is my own.*</sub>
