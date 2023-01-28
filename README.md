@@ -8,7 +8,7 @@ I always liked the PocoHud menu style and hated the look of the other existing j
 
 - Change music tracks mid-heist (menu tracks are available too!)
 - Play assault phase-specific segments from tracks (stealth, control, anticipation, assault)
-- Accessible via a keybind (BACKSPACE by default)
+- Accessible via a customizable keybind (BACKSPACE by default)
 - "Now Playing" toggleable pop-up at the top left of the game (text is customizable)
 - Doesn't need updating when new tracks are released
 - Around 1/10th of PocoHud3's size! <sub>*(Wasn't everything available in the full HUD?)*</sub>
